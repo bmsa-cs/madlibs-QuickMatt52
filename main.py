@@ -15,5 +15,12 @@ print(f"Great! {name}!\nCompters still exists in that year! {num}!")
 my_string = 'Hola'
 print(my_string)
 #this is my .format
- 
- 
+name = input("What is your name?")
+name = input("What is your name?")
+name = input("What is your name?")
+name = input("What is your name?")
+name = input("What is your name?")
+name = input("What is your name?")
+name = input("What is your name?")
+
+
